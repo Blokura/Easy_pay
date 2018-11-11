@@ -5,9 +5,13 @@
 
 # 食用方法
 1.直接 Download 或者下载 release
+
 2.丢到服务器上去,建议使用PHP5.6
+
 3.在includes文件夹中修改config.php文件的数据库信息以及你网站的配置信息
+
 4.数据库导入install.sql
+
 5.请手动到以下目录修改自己的支付接口
 
 QQ钱包：includes/qqpay/qpayMch.config.php
@@ -16,4 +20,5 @@ QQ钱包：includes/qqpay/qpayMch.config.php
 财付通：includes/tenpay/tenpay.config.php
 
 6.打开你的域名/admin 登录
+
 7.Enjoy!
