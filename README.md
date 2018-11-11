@@ -22,3 +22,10 @@ QQ钱包：includes/qqpay/qpayMch.config.php
 6.打开你的域名/admin 登录
 
 7.Enjoy!
+
+# 进阶设置
+## QQ互联登录
+修改includes/QC.conf.php中的appid，appkey和callback地址(https://你的域名/user/connect.php)
+
+## 单笔转账至支付宝功能设置
+修改includes/f2fpay/config.php中的内容，需企业支付宝签约单笔转账至支付宝功能才可以使用
