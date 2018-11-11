@@ -1,0 +1,1 @@
+a:4:{s:9:"usermoney";d:0.14000000000000001;s:11:"settlemoney";d:7.1600000000000001;s:11:"order_today";a:5:{s:6:"alipay";i:0;s:6:"tenpay";i:0;s:5:"qqpay";i:0;s:5:"wxpay";i:0;s:3:"all";i:0;}s:13:"order_lastday";a:5:{s:6:"alipay";d:0.01;s:6:"tenpay";i:0;s:5:"qqpay";d:0.11;s:5:"wxpay";d:0.02;s:3:"all";d:0.13999999999999999;}}
