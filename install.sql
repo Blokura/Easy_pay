@@ -1,9 +1,7 @@
 -- phpMyAdmin SQL Dump
--- version 4.0.10.20
 -- https://www.phpmyadmin.net
 --
 -- 主机: localhost
--- 生成日期: 2018-10-06 11:53:51
 -- 服务器版本: 5.6.37-log
 -- PHP 版本: 5.6.30
 
@@ -58,7 +56,7 @@ CREATE TABLE IF NOT EXISTS `panel_log` (
 --
 
 INSERT INTO `panel_log` (`id`, `uid`, `type`, `date`, `city`, `data`) VALUES
-(1, 1, '登录系统', '2018-10-01 14:01:12', '', 'IP:125.95.122.73');
+(1, 1, '登录系统', '2018-10-01 00:00:00', '', 'IP:127.0.0.1');
 
 -- --------------------------------------------------------
 
@@ -101,7 +99,7 @@ CREATE TABLE IF NOT EXISTS `pay_batch` (
 --
 
 INSERT INTO `pay_batch` (`batch`, `allmoney`, `time`, `status`) VALUES
-('20181001277', '0.98', '2018-10-01 14:50:06', 1);
+('20181001000', '0.01', '2018-10-01 00:00:00', 1);
 
 -- --------------------------------------------------------
 
